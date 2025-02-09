@@ -1,0 +1,9 @@
+body {
+  font-family: "Arial", sans-serif;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: #888;
+  background-color: #e3f2fd;
+}
